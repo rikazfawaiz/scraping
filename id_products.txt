@@ -1,0 +1,12 @@
+1143    10005693843
+3948    10005693843
+4152    10005693843
+327     10005693843
+4407    10005693843
+           ...     
+509      id_product
+3008     id_product
+2345     id_product
+1376     id_product
+2549     id_product
+Name: id_product, Length: 5099, dtype: object
