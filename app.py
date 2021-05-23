@@ -1,12 +1,5 @@
-# from bs4 import BeautifulSoup
-# soup = BeautifulSoup(page.content, 'html.parser')
-# print(soup.prettify())
-
 import requests
 import pandas as pd
-
-# user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0'
-# header = {'User-Agent':user_agent,}
 
 url = 'https://shopee.co.id/api/v4/search/search_items'
 param = {
